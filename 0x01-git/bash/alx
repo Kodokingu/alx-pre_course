@@ -4,5 +4,9 @@
 =======
 echo "ALX School"
 #!/bin/bash
+<<<<<<< HEAD
 #text
+>>>>>>> update_script
+=======
+HEAD
 >>>>>>> update_script
